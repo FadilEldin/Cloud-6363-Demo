@@ -12,6 +12,7 @@ https://cloud.google.com/vision/docs/detecting-logos
 https://cloud.google.com/vision/docs/ocr
 https://cloud.google.com/vision/docs/detecting-crop-hints
 
+https://analyticsindiamag.com/what-is-the-difference-between-image-classification-object-detection-techniques/
 https://cloud.google.com/vision/automl/docs/beginners-guide
 
 https://docs.aws.amazon.com/rekognition/latest/customlabels-dg/gs-console.html
