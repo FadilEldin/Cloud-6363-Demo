@@ -1,4 +1,5 @@
 
+[1]
 https://cloud.ibm.com/catalog/services/visual-recognition
 https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3
 
@@ -12,6 +13,7 @@ https://cloud.google.com/vision/docs/detecting-logos
 https://cloud.google.com/vision/docs/ocr
 https://cloud.google.com/vision/docs/detecting-crop-hints
 
+[2]
 https://analyticsindiamag.com/what-is-the-difference-between-image-classification-object-detection-techniques/
 https://cloud.google.com/vision/automl/docs/beginners-guide
 
@@ -19,3 +21,6 @@ https://docs.aws.amazon.com/rekognition/latest/customlabels-dg/gs-console.html
 https://us-east-2.console.aws.amazon.com/rekognition/custom-labels
 
 https://console.cloud.google.com/vision/dashboard
+
+[3]
+https://towardsdatascience.com/building-deploying-an-image-classification-web-app-with-automl-vision-tensorflow-js-app-engine-08-3157958a3289
