@@ -1,5 +1,5 @@
 #=================================================
-# Fadl Eldin
+# Fadil Eldin
 # A quick-and-dirty helper code to draw a polygon in an image. 
 # The image and bounding polygon are both hardcoded
 # Input: Image and polygon vertices (Hardcoded)
